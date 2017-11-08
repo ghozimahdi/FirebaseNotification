@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseNotif</string>
+    <string name="app_preferences">com.kodermbois.firebaseexperiment.FBE_PREFERENCES</string>
+    <string name="preference_key_firebaseToken">firebase_token</string>
+</resources>

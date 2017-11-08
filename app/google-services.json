@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674074149855",
+    "firebase_url": "https://notif-a73a1.firebaseio.com",
+    "project_id": "notif-a73a1",
+    "storage_bucket": "notif-a73a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674074149855:android:1e586eb064a1d6f4",
+        "android_client_info": {
+          "package_name": "com.project.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674074149855-9ubbqiqvf0i0qu5ogr9o49erkm5eivmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.firebasenotif",
+            "certificate_hash": "bcc38e4634313a647a85cc9f5b693634d93e062c"
+          }
+        },
+        {
+          "client_id": "674074149855-iti1nsh8bjc9qvfkm3q688m1gr89tvva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_vvTk2sL2k1vHLIF6O0iqK_Oib9jaes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674074149855-iti1nsh8bjc9qvfkm3q688m1gr89tvva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
